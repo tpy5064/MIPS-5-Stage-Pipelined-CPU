@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU/PipelinedCPU.sim/sim_1/behav/xsim/glbl.v,1529022456,verilog,,,,glbl,,,,,,,,
+C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU/PipelinedCPU.srcs/sim_1/new/testbench.v,1607442215,verilog,,,,testbench,,,,,,,,
+C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU/PipelinedCPU.srcs/sources_1/new/processor.v,1607615076,verilog,,C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU/PipelinedCPU.srcs/sim_1/new/testbench.v,,ALU;EX_MEM;ID_EX;IF_ID;MEM_WB;WBMux;aluMux;controlUnit;dataMem;instructionMemory;programCounter;regFile;regRtMux;signExtender,,,,,,,,

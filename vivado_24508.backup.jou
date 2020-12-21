@@ -1,0 +1,44 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Nov 11 14:27:34 2020
+# Process ID: 24508
+# Current directory: C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18700 C:\Users\Andrew Yang\Desktop\Lab05\PipelinedCPU\PipelinedCPU.xpr
+# Log file: C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU/vivado.log
+# Journal file: C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Andrew Yang/Desktop/Lab05/PipelinedCPU/PipelinedCPU.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
+launch_simulation
+source testbench.tcl
+close_sim
